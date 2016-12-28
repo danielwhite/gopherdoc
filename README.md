@@ -11,6 +11,6 @@ requests, so it may be unwise to run on the public internet.
 To run the Gopher server accessible at the host `go.example.com`:
 
 ```
-$ go install github.com/danielwhite/gopherdoc
+$ go get github.com/danielwhite/gopherdoc
 $ gopherdoc -host go.example.com
 ```
