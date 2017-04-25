@@ -14,4 +14,4 @@ would ensure the server generates menu entries that are accessible:
 
 	gopherdoc -host go.example.com
 */
-package main // import "github.com/danielwhite/gopherdoc"
+package main // import "whitehouse.id.au/gopherdoc"
